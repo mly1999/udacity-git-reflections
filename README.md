@@ -3,4 +3,4 @@ Responses to the reflection questions from the Udacity Git course. [Started Feb 
 
 
 Linking the following reflection for reference
-https://github.com/cbuckey-uda/reflections/blob/master/lesson_1_reflections.txt
+https://github.com/cbuckey-uda/reflections
